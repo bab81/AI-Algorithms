@@ -14,4 +14,4 @@ Assignment 9 - This compares performance of KMeans vs SOM algorithms while tryin
 24. Multi-Layer Perceptron is an automated feature transformer.
 
 # Feature Tranformation using PCA
-25. Converting a 3-d space into 2-d using PCA.
+25. Converting a 3-d space into 2-d using PCA, and then finding a linear separator. 
