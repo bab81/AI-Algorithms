@@ -9,3 +9,6 @@ Assignment 9 - This compares performance of KMeans vs SOM algorithms while tryin
 
 # Feature Engineering
 23. Changing features from cartesian to polar form can potentially greatly enhance the results of LGR (linear classifier).
+
+# Automated Feature Engineering
+24. Multi-Layer Perceptron is an automated feature transformer.
