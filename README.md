@@ -16,5 +16,8 @@ Assignment 9 - This compares performance of KMeans vs SOM algorithms while tryin
 # Feature Tranformation using PCA
 25. Converting a 3-d space into 2-d using PCA, or simpy reduce number of most potent/relevant features. Then finding a linear separator. 
 
+# Using Pre-trained Models
+26. Using pre-trained models such as GoogLeNet(2015), VGGNet, etc. Example implementation using OpenAI's CLIP Connecting Text and Images (https://openai.com/blog/clip/)
+
 # Search Problems
-26. Implementation of Mini Sudoku and Tic-Tac-Toe game using recursion.
+27. Implementation of Mini Sudoku and Tic-Tac-Toe game using recursion.
