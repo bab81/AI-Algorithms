@@ -15,3 +15,6 @@ Assignment 9 - This compares performance of KMeans vs SOM algorithms while tryin
 
 # Feature Tranformation using PCA
 25. Converting a 3-d space into 2-d using PCA, or simpy reduce number of most potent/relevant features. Then finding a linear separator. 
+
+# Search Problems
+26. Implementation of Mini Sudoku and Tic-Tac-Toe game using recursion.
