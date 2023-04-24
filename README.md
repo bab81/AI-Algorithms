@@ -19,5 +19,5 @@ Assignment 9 - This compares performance of KMeans vs SOM algorithms while tryin
 # Using Pre-trained Models
 26. Using pre-trained models such as GoogLeNet(2015), VGGNet, etc. Example implementation using OpenAI's CLIP Connecting Text and Images (https://openai.com/blog/clip/)
 
-# Search Problems
+# Search & Game Problems
 27. Implementation of Mini Sudoku and Tic-Tac-Toe game using recursion.
